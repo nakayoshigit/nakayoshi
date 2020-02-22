@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
 
 <head>
 
@@ -83,7 +83,7 @@
                 on <?php the_time( "Y/n/j" ); ?></p>
         </div>
         <hr>
-        <?php endwhile; ?>
+      <?php endwhile; ?>
 
         <hr>
         <!-- Pager -->
